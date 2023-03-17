@@ -28,7 +28,7 @@ p{
     margin: 35px;
 }
 body{
-    font-family:cursive;
+    font-family:monospace;
     background-image: url(bg.webp);
     background-size: cover ;
 }
