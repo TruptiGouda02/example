@@ -23,11 +23,12 @@ h1{
 p{
     
     color: azure;
-      font-size: 18px;
-     font-kerning: auto;
-     text-align: center;
-     margin: auto;
-     display: block;
+     font-size: 18px;
+    font-kerning: auto;
+    text-align: center;
+    margin: auto;
+    display: block;
+    overflow:auto
 }
 body{
     font-family: sans-serif;
